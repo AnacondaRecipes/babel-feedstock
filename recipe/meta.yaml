@@ -18,7 +18,7 @@ build:
     - pybabel = babel.messages.frontend:main
 
 requirements:
-  build:
+  host:
     - python
     - setuptools
     - pytz
