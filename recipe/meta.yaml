@@ -1,4 +1,4 @@
-{% set name = "Babel" %}
+{% set name = "babel" %}
 {% set version = "2.16.0" %}
 
 package:
